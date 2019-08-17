@@ -8,7 +8,7 @@ public class Knight extends Piece {
 
 	ColorP color;
 	Type type;
-	
+	//this is just for git test
 	public Knight(ColorP color) {
 		super(color);
 		this.color = color;
